@@ -1,0 +1,16 @@
+
+body{
+    
+}
+
+header{
+    background-color: rgb(222, 105, 9);
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  color: #fff;
+  padding: 2em;
+  gap: 10px;
+  border-bottom: 4px solid #FCBF49;
+}
